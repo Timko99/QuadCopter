@@ -1,4 +1,4 @@
-15979939520767453
+15981527916273711
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49083,6 +49083,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LuboJ_footprints
+Arduino_Nano
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+30
+30
 LuboJ_footprints
 HC-06
 
